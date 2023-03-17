@@ -16,8 +16,8 @@ I'm working on system reliability now.
 ![](https://img.shields.io/badge/C++-65318e?logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/Python-3e74a2?logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/C-5654a2?logo=c&logoColor=fff)
-![](https://img.shields.io/badge/Go-f5792a?logo=go&logoColor=fff)
-![](https://img.shields.io/badge/Docker-ffffff?logo=docker&logoColor=000)
+![](https://img.shields.io/badge/Go-00aaff?logo=go&logoColor=fff)
+![](https://img.shields.io/badge/Docker-0088ff?logo=docker&logoColor=fff)
 ![](https://img.shields.io/badge/Kubernetes-0066FF?logo=kubernetes&logoColor=fff)
 
 ---
