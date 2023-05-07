@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am Cheng Ding, currently an undergraduate at USTC.
-I'm working on system reliability now.
-Will be a research intern at UIUC from Jul 2023.
+* I am Cheng Ding, currently an undergraduate at USTC.
+  
+* I'm working on system reliability now.
+
+* Will be a research intern at UIUC from Jul 2023.
 
 ---
 
