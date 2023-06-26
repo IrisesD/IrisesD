@@ -50,10 +50,10 @@ Sunday                   44 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -69,5 +69,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2023-06-25 11:12:43 UTC
+ Last Updated on 2023-06-26 11:12:40 UTC
 <!--END_SECTION:waka-->
