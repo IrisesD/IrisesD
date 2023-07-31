@@ -10,7 +10,7 @@
 
 <img align="right" height="141" src="https://github-readme-stats.vercel.app/api?username=IrisesD&theme=tokyonight&show_icons=true&count_private=true">
 
--  Learning Spark & Fuzzing Test.
+-  Learning Kubernetes.
 
 -  See my [homepage](https://irisesd.github.io) for more info.
 
