@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" height="141" src="https://stats-of-repos-onds.vercel.app/api?username=IrisesD&theme=tokyonight&show_icons=true&count_private=true">
-
 -  Learning Runtime Verification.
 
 -  See my [homepage](https://irisesd.github.io) for more info.
