@@ -6,11 +6,7 @@
 
 * Currently interning at UIUC.
 
----
-
 -  Learning Runtime Verification.
-
--  See my [homepage](https://irisesd.github.io) for more info.
 
 #### My Skills
 
