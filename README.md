@@ -2,11 +2,9 @@
 
 * It's Cheng Ding, a senior undergraduate at USTC.
   
-* I'm working on system reliability now.
+* I'm working on software engineering now.
 
-* Currently interning at UIUC.
-
-* Learning Runtime Verification.
+* I will join UT-Austin as a PhD student in 2024Fall.
 
 #### My Skills
 
