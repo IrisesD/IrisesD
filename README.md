@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-* It's Cheng Ding, a senior undergraduate at USTC.
-  
-* I'm working on software engineering now.
+* It's Cheng Ding, a first year PhD student at UT-Austin, advised by Prof. [Milos Gligoric](https://users.ece.utexas.edu/~gligoric/).
 
-* I will join UT-Austin as a PhD student in 2024Fall.
+* I'm broadly interested in anything related to **Software Engineering**.
 
 #### My Skills
 
