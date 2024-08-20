@@ -40,11 +40,10 @@ Sunday                   52 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 mins             ████████████████████████░   95.63 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -60,5 +59,5 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2024-08-19 11:13:58 UTC
+ Last Updated on 2024-08-20 11:15:33 UTC
 <!--END_SECTION:waka-->
