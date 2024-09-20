@@ -40,10 +40,10 @@ Sunday                   52 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     43 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -59,5 +59,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2024-09-19 11:15:11 UTC
+ Last Updated on 2024-09-20 11:15:24 UTC
 <!--END_SECTION:waka-->
